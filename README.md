@@ -17,12 +17,13 @@ Cálculo automático do valor com base na quantidade
 Validação de opções inválidas
 Acúmulo do valor total do pedido
 Opção de continuar ou finalizar o pedido
+
 🧠 Conceitos aplicados
 Estrutura de repetição (while)
 Estrutura condicional com match-case (Python 3.10+)
 Operadores lógicos
 Entrada e saída de dados (input / print)
 Controle de fluxo
-💡 Objetivo
 
+💡 Objetivo
 Projeto criado para treinar lógica de programação e simular um sistema básico de pedidos de uma lanchonete no terminal.
