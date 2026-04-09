@@ -5,7 +5,9 @@ Este projeto é um sistema simples de pedidos para uma lanchonete, desenvolvido 
 O programa permite que o usuário navegue por um menu com três categorias:
 
 Lanches
+
 Bebidas
+
 Sobremesas
 
 Dentro de cada categoria, o cliente pode escolher o produto desejado, informar a quantidade e o sistema calcula automaticamente o valor do pedido.
